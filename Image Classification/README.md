@@ -9,3 +9,7 @@ We will use the following packages:
 * Keras
 * MXNet
 * TensorLevel
+* NoLearn
+* Lasange
+* Theano
+
